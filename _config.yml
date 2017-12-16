@@ -1,5 +1,5 @@
-url: https://dtbngoc.github.io
-baseurl:
+url: 'https://dtbngoc.github.io'
+baseurl: ''
 
 # Site settings
 title: My Portfolio
