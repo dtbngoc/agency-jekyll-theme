@@ -1,0 +1,13 @@
+---
+title: T-Shirt Design
+subtitle: Graphic Design
+layout: default
+modal-id: 1
+date: 2017-12-17
+img: [cat.jpg, kitticorn.jpg, acdc.jpg, chick.jpg, DarkMoon.jpg, nietzche.jpg, yourmom.jpg]
+thumbnail: kitticorn.jpg
+alt: T-Shirt design
+category: Printing product design 
+description: T-Shirt design for commercial usages.
+
+---
