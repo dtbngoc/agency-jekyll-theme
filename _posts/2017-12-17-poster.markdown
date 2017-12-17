@@ -1,0 +1,13 @@
+---
+title: Poster Design
+subtitle: Graphic Design
+layout: default
+modal-id: 1
+date: 2017-12-17
+img: [baseball.jpg, mawwiage.jpg, mermaid.jpg, rent.jpg, wife.jpg]
+thumbnail: mermaid.jpg
+alt: Poster design
+category: Printing product design 
+description: Poster design for commercial usages.
+
+---
