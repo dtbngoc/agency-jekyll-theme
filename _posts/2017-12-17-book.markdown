@@ -1,0 +1,13 @@
+---
+title: Book Cover Design
+subtitle: Graphic Design
+layout: default
+modal-id: 3
+date: 2017-12-17
+img: [city.jpg, marry.jpg, daomo.jpg]
+thumbnail: marry.jpg
+alt: Book Cover design
+category: Printing product design 
+description: Book cover illustration.
+
+---
