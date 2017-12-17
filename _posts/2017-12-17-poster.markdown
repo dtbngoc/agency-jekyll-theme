@@ -2,7 +2,7 @@
 title: Poster Design
 subtitle: Graphic Design
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-12-17
 img: [baseball.jpg, mawwiage.jpg, mermaid.jpg, rent.jpg, wife.jpg]
 thumbnail: mermaid.jpg
